@@ -1,10 +1,10 @@
-package com.backend.poozik
+package com.poozik.api
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class PoozikApplicationTests {
+class ApiApplicationTests {
     @Test
     fun contextLoads() {
     }
